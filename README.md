@@ -2,7 +2,7 @@
 #MATLAB
 
 %% Part 1 - Homography Matrix Estimation %%
-%% main() ->estimateHomographyMatrix .m %%
+%% main() ->homographyEstimationMain.m %%
 %% Currently working on Stitching of images %%
 %% View write up for details on algorithms used and output efficiency %%
 
