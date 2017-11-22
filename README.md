@@ -1,7 +1,7 @@
-## Homography-and-Fundamental-Matrix-Estimation
+# Homography-and-Fundamental-Matrix-Estimation
 #MATLAB
 
-# Part 1 - Homography Matrix Estimation
+## Part 1 - Homography Matrix Estimation
 
 main() ->homographyEstimationMain.m
 
@@ -11,7 +11,7 @@ View write up for details on algorithms used and output efficiency
 
 
 
-# Part 2 - Fundamental Matrix Estimation
+## Part 2 - Fundamental Matrix Estimation
 
 part1Main -> Estimation of fundamental matrix, given matching points
 
